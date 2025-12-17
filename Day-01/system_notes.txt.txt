@@ -1,0 +1,4 @@
+Day 1:
+- Learned how computers work
+- Installed Linux in VirtualBox
+- Used basic terminal commands

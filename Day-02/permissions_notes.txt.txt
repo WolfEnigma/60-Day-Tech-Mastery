@@ -1,0 +1,4 @@
+r = read
+w = write
+x = execute
+777 is unsafe because anyone can access the file
