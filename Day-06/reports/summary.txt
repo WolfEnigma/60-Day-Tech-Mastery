@@ -1,0 +1,7 @@
+Log Analysis Report - Sun Dec 21 15:11:43 SLST 2025
+Errors:
+ERROR Failed password attempt root
+ERROR Unauthorized access detected
+
+Warnings:
+WARNING Disk usage high

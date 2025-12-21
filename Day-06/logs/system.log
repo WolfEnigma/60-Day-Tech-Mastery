@@ -1,0 +1,6 @@
+INFO  User login success nipun
+ERROR Failed password attempt root
+INFO  File accessed /etc/passwd
+WARNING Disk usage high
+ERROR Unauthorized access detected
+INFO  Backup completed successfully

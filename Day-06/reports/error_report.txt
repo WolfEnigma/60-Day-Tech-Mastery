@@ -1,0 +1,2 @@
+ERROR Failed password attempt root
+ERROR Unauthorized access detected
